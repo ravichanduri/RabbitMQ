@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Flipkart.Common.Model/Flipkart.Common.Model.csproj" Id="042ec7b9-fec5-4342-b618-812aebda0c58" />
+  <Project Path="../Flipkart.Consumer/Flipkart.Consumer.csproj" />
+  <Project Path="../Flipkart.Publisher/Flipkart.Publisher/Flipkart.Publisher.csproj" />
+</Solution>

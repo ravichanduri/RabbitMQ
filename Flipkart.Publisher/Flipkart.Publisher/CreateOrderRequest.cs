@@ -1,0 +1,1 @@
+﻿public record CreateOrderRequest(decimal Amount);

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Complete App Run",
+    "Projects": [
+      {
+        "Path": "..\\Flipkart.Consumer\\Flipkart.Consumer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Flipkart.Publisher\\Flipkart.Publisher\\Flipkart.Publisher.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
